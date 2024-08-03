@@ -15,7 +15,7 @@ import Footer from "./components/Footer";
 export default function App() {
   return (
     <>
-      <div className="h-screen w-screen bg-background">
+      <div className="h-screen w-full bg-background">
         <Navbar />
         <Hero />
         <PoweredBy />
