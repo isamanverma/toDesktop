@@ -14,7 +14,7 @@ export default function StoriesPage() {
               <div className="mb-6 flex flex-row items-center">
                 <img
                   className="size-12"
-                  src="/src/assets/images/asset 9.png"
+                  src="/public/assets/images/asset 9.png"
                   alt="ClickUp logo"
                 />
                 <h3 className="text-xl font-bold">ClickUp</h3>
@@ -44,7 +44,7 @@ export default function StoriesPage() {
             <div className="flex items-center gap-3 pb-5">
               <img
                 className="size-10 rounded-full"
-                src="/src/assets/images/zeb.jpeg"
+                src="/public/assets/images/zeb.jpeg"
                 alt="zeb profile picture"
               />
               <div>
@@ -61,7 +61,7 @@ export default function StoriesPage() {
 
           <img
             className="hidden w-4/5 justify-self-end md:block"
-            src="/src/assets/images/clickUpReview.png"
+            src="/public/assets/images/clickUpReview.png"
             alt="Click up review page"
           />
         </div>

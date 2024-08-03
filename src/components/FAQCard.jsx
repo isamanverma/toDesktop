@@ -26,7 +26,7 @@ export default function FAQCard({ title, answer }) {
       </div>
       <img
         className="h-6 w-6"
-        src="/src/assets/svg/dropdown.svg"
+        src="/public/assets/svg/dropdown.svg"
         alt="dropdown icon"
       />
     </div>

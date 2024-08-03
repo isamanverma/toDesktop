@@ -10,7 +10,7 @@ export default function Pricing() {
       <ul className="grid-col-1 relative grid gap-2 md:grid-cols-3">
         <PricingCard
           tier="Free"
-          description="For personal use or testing your app before deploying to customers."
+          description="For personal use."
           price={0}
         />
         <PricingCard

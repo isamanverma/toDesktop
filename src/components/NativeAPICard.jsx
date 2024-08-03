@@ -7,7 +7,7 @@ export default function NativeAPICard() {
         <div className="grid place-items-center rounded-full bg-blue-300 p-2">
           <img
             className="size-5"
-            src="/src/assets/svg/code-simple.svg"
+            src="/public/assets/svg/code-simple.svg"
             alt="code fragment logo"
           />
         </div>
@@ -23,13 +23,13 @@ export default function NativeAPICard() {
         <div className="relative">
           <img
             className="size-14 rounded-full border border-white object-cover"
-            src="/src/assets/images/asset 8.png"
+            src="/public/assets/images/asset 8.png"
             alt="rise logo"
           />
 
           <img
             className="absolute left-8 top-1 rounded-full border border-white"
-            src="/src/assets/images/rick.jpeg"
+            src="/public/assets/images/rick.jpeg"
             alt="rick"
           />
         </div>

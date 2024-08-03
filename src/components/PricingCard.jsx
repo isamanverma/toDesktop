@@ -13,7 +13,7 @@ export default function PricingCard({ tier, description, price }) {
         <li className="flex gap-2">
           <img
             className="size-5"
-            src="/src/assets/svg/check.svg"
+            src="/public/assets/svg/check.svg"
             alt="check mark"
           />
           Free for personal use
@@ -21,7 +21,7 @@ export default function PricingCard({ tier, description, price }) {
         <li className="flex gap-2">
           <img
             className="size-5"
-            src="/src/assets/svg/check.svg"
+            src="/public/assets/svg/check.svg"
             alt="check mark"
           />
           Free for personal use
@@ -29,7 +29,7 @@ export default function PricingCard({ tier, description, price }) {
         <li className="flex gap-2">
           <img
             className="size-5"
-            src="/src/assets/svg/check.svg"
+            src="/public/assets/svg/check.svg"
             alt="check mark"
           />
           Free for personal use
@@ -37,7 +37,7 @@ export default function PricingCard({ tier, description, price }) {
         <li className="flex gap-2">
           <img
             className="size-5"
-            src="/src/assets/svg/check.svg"
+            src="/public/assets/svg/check.svg"
             alt="check mark"
           />
           Free for personal use

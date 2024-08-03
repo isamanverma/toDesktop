@@ -17,7 +17,7 @@ export default function DownloadPage() {
         <button className="group my-6 flex w-full justify-center gap-5 rounded-md bg-primary-blue p-4">
           <img
             className="size-6 invert"
-            src="/src/assets/svg/download.svg"
+            src="/public/assets/svg/download.svg"
             alt="download logo"
           />
           <p className="text-md">Download ToDesktop Builder</p>
@@ -30,7 +30,7 @@ export default function DownloadPage() {
       </div>
       <img
         className="mt-10 hidden justify-self-end md:block"
-        src="/src/assets/images/clickUpReview.png"
+        src="/public/assets/images/clickUpReview.png"
         alt="click up"
       />
     </div>
