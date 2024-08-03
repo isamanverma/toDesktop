@@ -17,7 +17,7 @@ export default function Hero() {
           <li className="flex flex-col items-center justify-center gap-1 lg:flex-row">
             <img
               className="size-4"
-              src="/public/assets/svg/file-code.svg"
+              src="/assets/svg/file-code.svg"
               alt="code icon"
             />
             <span className="text-center">Code Optional</span>
@@ -26,7 +26,7 @@ export default function Hero() {
           <li className="flex flex-col items-center gap-1 lg:flex-row">
             <img
               className="size-4"
-              src="/public/assets/svg/hand-back-fist.svg"
+              src="/assets/svg/hand-back-fist.svg"
               alt="fist icon"
             />
             <span className="text-center">Drag & drop builder</span>
@@ -35,7 +35,7 @@ export default function Hero() {
           <li className="flex flex-col items-center gap-1 lg:flex-row">
             <img
               className="size-5"
-              src="/public/assets/svg/laptop.svg"
+              src="/assets/svg/laptop.svg"
               alt="laptop icon"
             />
             <span className="text-center">Windows, Mac, Linux</span>
@@ -61,7 +61,7 @@ export default function Hero() {
         <div className="mt-14 flex items-center justify-center gap-4">
           <img
             className="translate-y-4 transform"
-            src="/public/assets/svg/arrow.svg"
+            src="/assets/svg/arrow.svg"
             alt="arrow left"
           />
           <h3 className="font-bold uppercase text-black">
@@ -69,7 +69,7 @@ export default function Hero() {
           </h3>
           <img
             className="translate-y-4 -scale-x-100 transform"
-            src="/public/assets/svg/arrow.svg"
+            src="/assets/svg/arrow.svg"
             alt="arrow right"
           />
         </div>

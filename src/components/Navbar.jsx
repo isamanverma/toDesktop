@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="flex items-center gap-2">
         <img
           className="rounded-md hover:cursor-pointer"
-          src="/public/assets/images/logo.png"
+          src="/assets/images/logo.png"
           alt="website icon"
         />
         <span className="font-poppins text-[18px] font-semibold">
@@ -23,7 +23,7 @@ export default function Navbar() {
 
       <div className="flex-shrink-0">
         <button className="group hidden transform gap-2 rounded-lg border border-gray-600 px-4 py-2 transition-all duration-300 hover:-translate-y-1 hover:border-black lg:flex">
-          <img src="/public/assets/svg/electron.svg" alt="electron logo" />
+          <img src="/assets/svg/electron.svg" alt="electron logo" />
           <span className="font-semibold text-gray-800">
             Electron Developers
             <span className="inline-block transform pl-1 transition-transform group-hover:translate-x-1">
@@ -33,7 +33,7 @@ export default function Navbar() {
         </button>
         <img
           className="size-6 md:hidden"
-          src="/public/assets/svg/menu-burger.svg"
+          src="/assets/svg/menu-burger.svg"
           alt="menu"
         />
       </div>

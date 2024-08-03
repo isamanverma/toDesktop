@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex items-center gap-2 py-5 md:py-10">
           <img
             className="rounded-md hover:cursor-pointer"
-            src="/public/assets/images/logo.png"
+            src="/assets/images/logo.png"
             alt="website icon"
           />
           <span className="font-poppins text-[18px] font-semibold">
@@ -18,12 +18,12 @@ export default function Footer() {
           <ul className="flex items-center justify-center gap-3 md:gap-6">
             <img
               className="size-6"
-              src="/public/assets/svg/twitter.svg"
+              src="/assets/svg/twitter.svg"
               alt="twitter icon"
             />
             <img
               className="size-5"
-              src="/public/assets/svg/github.svg"
+              src="/assets/svg/github.svg"
               alt="github icon"
             />
             <p className="text-md font-extralight">Documentation</p>
@@ -35,7 +35,7 @@ export default function Footer() {
         <span>
           <img
             className="w-28"
-            src="/public/assets/images/Y Combinator.png"
+            src="/assets/images/Y Combinator.png"
             alt="Y combinator logo"
           />
         </span>{" "}

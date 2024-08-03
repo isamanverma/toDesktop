@@ -18,7 +18,7 @@ export default function HowCard({ step }) {
           <li className="flex flex-row gap-2">
             <img
               className="size-5"
-              src="/public/assets/svg/check.svg"
+              src="/assets/svg/check.svg"
               alt="check mark"
             />
             <span>Multiple Windows</span>
@@ -26,7 +26,7 @@ export default function HowCard({ step }) {
           <li className="flex flex-row gap-2">
             <img
               className="size-5"
-              src="/public/assets/svg/check.svg"
+              src="/assets/svg/check.svg"
               alt="check mark"
             />
             <span>Multiple Windows</span>
@@ -34,7 +34,7 @@ export default function HowCard({ step }) {
           <li className="flex flex-row gap-2">
             <img
               className="size-5"
-              src="/public/assets/svg/check.svg"
+              src="/assets/svg/check.svg"
               alt="check mark"
             />
             <span>Multiple Windows</span>
@@ -42,7 +42,7 @@ export default function HowCard({ step }) {
           <li className="flex flex-row gap-2">
             <img
               className="size-5"
-              src="/public/assets/svg/check.svg"
+              src="/assets/svg/check.svg"
               alt="check mark"
             />
             <span>Multiple Windows</span>
@@ -50,7 +50,7 @@ export default function HowCard({ step }) {
           <li className="flex flex-row gap-2">
             <img
               className="size-5"
-              src="/public/assets/svg/check.svg"
+              src="/assets/svg/check.svg"
               alt="check mark"
             />
             <span>Multiple Windows</span>
@@ -58,14 +58,14 @@ export default function HowCard({ step }) {
           <li className="flex flex-row gap-2">
             <img
               className="size-5"
-              src="/public/assets/svg/check.svg"
+              src="/assets/svg/check.svg"
               alt="check mark"
             />
             <span>Multiple Windows</span>
           </li>
         </ul>
       </div>
-      <img src="/public/assets/svg/upload.svg" alt="upload" />
+      <img src="/assets/svg/upload.svg" alt="upload" />
     </div>
   );
 }

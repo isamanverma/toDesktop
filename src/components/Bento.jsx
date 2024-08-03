@@ -11,7 +11,7 @@ export default function Bento() {
           <h2 className="mb-4 text-center font-poppins text-2xl font-bold lg:mb-8">
             Native Notification
           </h2>
-          <img src="/public/assets/images/new event.png" alt="event" />
+          <img src="/assets/images/new event.png" alt="event" />
         </div>
 
         <div className="row-span-2 flex cursor-pointer flex-col items-center justify-center rounded-xl border bg-slate-50 from-pink-50 via-purple-50 to-yellow-50 p-10 transition-all duration-300 hover:border-pink-200 hover:bg-gradient-to-br hover:drop-shadow-sm">
@@ -22,17 +22,14 @@ export default function Bento() {
             We'll ensure the underlying browser is up to date and deliver
             performance improvements, security patches, & additional features.
           </h3>
-          <img
-            src="/public/assets/images/latest version.png"
-            alt="latest version"
-          />
+          <img src="/assets/images/latest version.png" alt="latest version" />
         </div>
 
         <div className="row-span-1 flex cursor-pointer flex-col items-center justify-center rounded-xl border bg-slate-50 from-pink-50 via-purple-50 to-yellow-50 p-10 transition-all duration-300 hover:border-pink-200 hover:bg-gradient-to-br hover:drop-shadow-sm">
           <h2 className="mb-4 text-center font-poppins text-2xl font-bold lg:mb-8">
             Native Notification
           </h2>
-          <img src="/public/assets/images/carousel.png" alt="carousel" />
+          <img src="/assets/images/carousel.png" alt="carousel" />
         </div>
 
         <div className="row-span-2 flex cursor-pointer flex-col items-center justify-center rounded-xl border bg-slate-50 from-pink-50 via-purple-50 to-yellow-50 p-10 transition-all duration-300 hover:border-pink-200 hover:bg-gradient-to-br hover:drop-shadow-sm">
@@ -43,7 +40,7 @@ export default function Bento() {
             We'll ensure the underlying browser is up to date and deliver
             performance improvements, security patches, & additional features.
           </h3>
-          <img src="/public/assets/images/api.png" alt="latest version" />
+          <img src="/assets/images/api.png" alt="latest version" />
         </div>
 
         <div className="row-span-2 flex cursor-pointer flex-col items-center justify-center rounded-xl border bg-slate-50 from-pink-50 via-purple-50 to-yellow-50 p-10 transition-all duration-300 hover:border-pink-200 hover:bg-gradient-to-br hover:drop-shadow-sm">
@@ -54,17 +51,14 @@ export default function Bento() {
             We'll ensure the underlying browser is up to date and deliver
             performance improvements, security patches, & additional features.
           </h3>
-          <img
-            src="/public/assets/images/latest version.png"
-            alt="latest version"
-          />
+          <img src="/assets/images/latest version.png" alt="latest version" />
         </div>
 
         <div className="row-span-1 flex cursor-pointer flex-col items-center justify-center rounded-xl border bg-slate-50 from-pink-50 via-purple-50 to-yellow-50 p-10 transition-all duration-300 hover:border-pink-200 hover:bg-gradient-to-br hover:drop-shadow-sm">
           <h2 className="mb-4 text-center font-poppins text-2xl font-bold lg:mb-8">
             Native Notification
           </h2>
-          <img src="/public/assets/images/new event.png" alt="event" />
+          <img src="/assets/images/new event.png" alt="event" />
         </div>
       </div>
     </div>
